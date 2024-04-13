@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const TheSystem = () => {
+const TheSystem = async() => {
   return (
     <div>TheSystem</div>
   )
