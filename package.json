@@ -14,7 +14,7 @@
     "db:prod": "tsx ./scripts/prod.ts"
   },
   "author": {
-    "name": "Raghul R",
+    "name": "Raghul R"
   },
   "description": "Power of AI in the PaLLM of my hand",
   "keywords": [
