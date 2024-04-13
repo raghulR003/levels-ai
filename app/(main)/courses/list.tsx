@@ -39,7 +39,7 @@ export const List = ({ courses, activeCourseId }: ListProps) => {
           imageSrc={course.imageSrc}
           onClick={onClick}
           disabled={pending}
-          isActive={course.id === activeCourseId}
+          active={course.id === activeCourseId}
         />
       ))}
     </div>
